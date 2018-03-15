@@ -9,4 +9,9 @@ Ce bot tweet l’expression « Hello World » à chaque exécution, une fois l
 
 2. stream_ruby.rb
 
-Ce bot stream, c’est-à-dire affiche dans ta console, tous les 
+Ce bot streame, c’est-à-dire affiche dans ta console, les derniers tweets qui contiennent les hashtags #ruby et #rubyonrails.
+Pour le faire fonctionner, tu dois rentrer des clés d’API valides et l’exécuter dans ta console.
+
+ATTENTION : si tu utilises ces bots avec tes clés d’API, ne push JAMAIS un fichier qui les contient sur GitHub ! Elles pourraient être repérées et utilisées par des personnes peu scrupuleuses.
+
+Have fun 😈
