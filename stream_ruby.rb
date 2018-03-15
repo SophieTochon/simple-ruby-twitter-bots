@@ -7,7 +7,7 @@ client = Twitter::Streaming::Client.new do |config|
   config.access_token_secret = ""
 end
 
-topics = ["coffee", "tea"]
+topics = ["#ruby", "#rubyonrails"]
 client.filter(track: topics.join(",")) do |object|
   puts object.text if object.is_a?(Twitter::Tweet)
 end
