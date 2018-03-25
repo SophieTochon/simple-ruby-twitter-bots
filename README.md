@@ -12,6 +12,6 @@ Deux petits bots Twitter codés en Ruby.
   
 <hr />
 
-⚠️⚠️ **On ne laisse pas ses clés d'API traîner sur GitHub,** car c'est très mal. ⚠️⚠️
+⚠️⚠️ **On ne laisse pas ses clés d'API traîner sur GitHub,** car c'est très mal. ⚠️⚠️   
 
 Bisous 😘
