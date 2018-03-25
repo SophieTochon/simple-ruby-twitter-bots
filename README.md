@@ -10,7 +10,7 @@ Deux petits bots Twitter codés en Ruby.
 
   Ce bot streame les derniers tweets qui contiennent les hashtags **#ruby** et **#rubyonrails.**
   
-____
+<!-- -->
 
 ⚠️⚠️ **On ne laisse pas ses clés d'API traîner sur GitHub,** car c'est très mal. ⚠️⚠️
 
